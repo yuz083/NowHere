@@ -1,0 +1,25 @@
+<< REST API >>
+
+1. 로그인(o)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_login.php?User_ID=chomper&Passwd=1234
+
+2. 회원가입(x)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_signup.php?User_ID=chomper&Passwd=1234
+
+3. 모든 이벤트 광고목록 가져오기(o)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_ad_list.php
+
+4. 내 위치 (GPS좌표) 에 해당하는 광고 목록 가져오기 (o)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_ad_list.php?x=37.521576213145195&y=126.92430429979493
+
+5. 광고 상세정보 가져오기 (o)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_ad_detail.php?evtid=1
+
+6. 쿠폰 받기 (x)
+
+http://ec2-18-222-187-179.us-east-2.compute.amazonaws.com/m_coupon.php?evtid=1

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">지금!여기!</string>
+
+    <!-- permission -->
+    <string name="rationale_message">내 위치 정보를 사용하려면 단말기의 설정에서 "위치 서비스" 사용을 허용해 주세요.</string>
+    <string name="denied_message">권한이 승인되지 않으면 서비스를 이용할 수 없습니다.\n권한 설정을 확인 해 주세요.</string>
+    <string name="permission_denied">위치 정보에 대한 권한이 거부되었습니다.</string>
+</resources>
